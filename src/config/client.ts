@@ -79,7 +79,7 @@ export const client = {
 
   // Reviews — placeholder
   reviews: [
-    { name: "John Pattinson", rating: 5, text: "Bryn and his team has revamped my garden, putting in paving, a retaining wall, steps and decking. i am very pleased with the quality of the work and would definitely recommend his services ", date: "2 years ago" },
+    { name: "John Pattinson", rating: 5, text: "Bryn and his team has revamped my garden, putting in paving, a retaining wall, steps and decking. i am very pleased with the quality of the work and would definitely recommend his services", date: "2 years ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
 
   // SEO
